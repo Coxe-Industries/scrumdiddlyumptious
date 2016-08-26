@@ -1,0 +1,10 @@
+{
+  "index": {
+    "path":  "/",
+    "label": "Index"
+  },
+  "about": {
+    "path":  "/about",
+    "label": "About"
+  }
+}
